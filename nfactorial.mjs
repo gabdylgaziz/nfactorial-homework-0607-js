@@ -1,4 +1,4 @@
-/*//participant list
+//participant list
 let participants = [
     {
         name : "Gabdyq",
@@ -104,7 +104,7 @@ let nAccStud = notAcc.map((stud) => marker(stud));
 
 
 const rejected = ["Zdravstvuite", ...notAcc, "k sozhaleniu vy ne proshli otbor na nFactorial Incubator 2022"];
-console.log(rejected);*/
+console.log(rejected);
 
 import {mentors} from './export.mjs';
 console.log(mentors);
